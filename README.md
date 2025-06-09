@@ -42,11 +42,11 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
   <!-- Hydra -->
   <a href="https://github.com/vanhauser-thc/thc-hydra" title="Hydra">
-    <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/doc/hydra.png" width="40" alt="Hydra"/>
+    <img src="https://www.hydradongle.com/theme_front/img/logo.png" width="40" alt="Hydra"/>
   </a>
   <!-- SQLmap -->
   <a href="https://sqlmap.org/" title="SQLmap">
-    <img src="https://sqlmap.org/images/logo.png" width="40" alt="SQLmap"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" width="40" alt="SQLmap"/>
   </a>
 </p>
 
