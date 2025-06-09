@@ -7,7 +7,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 - 🎓 Lifelong learner diving deep into Red Teaming, Blue Teaming, and Security Architecture.
 - 📈 Currently leveling up my **Data Structures and Algorithms (DSA)** skills in Java.
 - 🛠️ Building tools and automation for vulnerability scanning and incident response.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧰 Tech Stack & Tools
 
 🔒 **Cybersecurity:**  
@@ -58,20 +58,124 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
 </p>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💻 **Programming:**  
-Python, Bash, Java, PowerShell, JavaScript, C/C++, Ruby
 
+<p align="left">
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" alt="C"/>
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" alt="C++"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python"/>
+  </a>
+
+  <!-- Java -->
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="Java"/>
+  </a>
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="JavaScript"/>
+  </a>
+
+  <!-- Ruby -->
+  <a href="https://www.ruby-lang.org/" title="Ruby">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="100" alt="Ruby"/>
+  </a>
+
+  <!-- PowerShell -->
+  <a href="https://learn.microsoft.com/en-us/powershell/" title="PowerShell">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="100" alt="PowerShell"/>
+  </a>
+
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100" alt="Bash"/>
+  </a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 **AI & NLP:**  
-LLMs, Transformers, LangChain, ChatGPT API
+<p align="left">
+  <!-- LLMs -->
+  <a href="https://huggingface.co/docs/transformers/" title="LLMs">
+    <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="100" alt="LLMs"/>
+  </a>
 
+  <!-- Transformers -->
+  <a href="https://huggingface.co/transformers/" title="Transformers (HuggingFace)">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" alt="Transformers"/>
+  </a>
+
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" title="LangChain">
+    <img src="https://avatars.githubusercontent.com/u/139914772?s=200&v=4" width="100" alt="LangChain"/>
+  </a>
+
+  <!-- ChatGPT API -->
+  <a href="https://platform.openai.com/docs/" title="ChatGPT API">
+    <img src="https://cdn-icons-png.flaticon.com/512/11823/11823442.png" width="100" alt="ChatGPT API"/>
+  </a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ☁️ **Cloud Security:**  
-AWS IAM, S3 Security, Azure Security Center
+<p align="left">
+  <!-- AWS IAM -->
+  <a href="https://aws.amazon.com/iam/" title="AWS IAM">
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="100" alt="AWS IAM"/>
+  </a>
+
+  <!-- S3 Security -->
+  <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html" title="S3 Security">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Amazon-S3-Logo.svg" width="100" alt="S3"/>
+  </a>
+
+  <!-- Azure Security Center -->
+  <a href="https://learn.microsoft.com/en-us/azure/security-center/" title="Azure Security Center">
+    <img src="https://azure.microsoft.com/svghandler/security-center?width=600&height=315" width="100" alt="Azure Security Center"/>
+  </a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗂️ **DevSecOps:**  
-GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
+<p align="left">
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions" title="GitHub Actions">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Actions"/>
+  </a>
 
----
+  <!-- Docker -->
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" alt="Docker"/>
+  </a>
+
+  <!-- SonarQube -->
+  <a href="https://www.sonarqube.org/" title="SonarQube">
+    <img src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="100" alt="SonarQube"/>
+  </a>
+
+  <!-- Trivy -->
+  <a href="https://aquasecurity.github.io/trivy/" title="Trivy">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/static/img/logo.svg" width="100" alt="Trivy"/>
+  </a>
+
+  <!-- OpenSCAP -->
+  <a href="https://www.open-scap.org/" title="OpenSCAP">
+    <img src="https://www.open-scap.org/images/openscap.png" width="100" alt="OpenSCAP"/>
+  </a>
+</p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏅 Badges & Certifications
 
