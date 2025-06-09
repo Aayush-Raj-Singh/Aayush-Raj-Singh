@@ -56,7 +56,7 @@ Standardized all widths to 99px for consistency
 <h3>☁️ Cloud Security</h3>
 <p align="left">
   <a href="https://aws.amazon.com/iam/" title="AWS IAM"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="75" alt="AWS IAM"/></a>
-  <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html" title="S3 Security"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Amazon-S3-Logo.svg" width="75" alt="S3"/></a>
+  <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html" title="S3 Security"><img src="https://docs.aws.amazon.com/assets/r/images/aws_logo_light.svg" width="75" alt="S3"/></a>
   <a href="https://learn.microsoft.com/en-us/azure/security-center/" title="Azure Security Center"><img src="https://azure.microsoft.com/svghandler/security-center?width=600&height=315" width="75" alt="Azure Security Center"/></a>
 </p>
 
@@ -64,11 +64,7 @@ Standardized all widths to 99px for consistency
 <p align="left">
   <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75" alt="GitHub Actions"/></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" alt="Docker"/></a>
-  <a href="https://www.sonarqube.org/" title="SonarQube"><img src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="75" alt="SonarQube"/></a>
-  <a href="https://aquasecurity.github.io/trivy/" title="Trivy"><img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/static/img/logo.svg" width="75" alt="Trivy"/></a>
-  <a href="https://www.open-scap.org/" title="OpenSCAP"><img src="https://www.open-scap.org/images/openscap.png" width="75" alt="OpenSCAP"/></a>
-</p>
-
+  <a href="https://www.sonarqube.org/" title="SonarQube"><img src="https://assets-eu-01.kc-usercontent.com/886afe32-410a-0136-0267-0f7515a29063/8e59bcad-6e39-41dc-abd9-a0e251e8d63f/Sonar%20%282%29.svg?w=128&h=32&auto=format&fit=clip" width="75" alt="SonarQube"/></a>
 <hr/>
 
 <h2>🏅 Badges & Certifications</h2>
@@ -92,4 +88,14 @@ Standardized all widths to 99px for consistency
   <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" title="Linux" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" title="Security Awareness" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" title="How the Web Works" width="75"/>
+</div>
+
+<h3>🏅 Salesforce Trailhead Ranks</h3>
+<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/scout.png" alt="Scout" title="Scout" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/hiker.png" alt="Hiker" title="Hiker" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/explorer.png" alt="Explorer" title="Explorer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/adventurer.png" alt="Adventurer" title="Adventurer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/mountaineer.png" alt="Mountaineer" title="Mountaineer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Expeditioner" title="Expeditioner" width="75"/>
 </div>
