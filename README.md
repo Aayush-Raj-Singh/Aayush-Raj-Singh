@@ -57,8 +57,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png" width="100" alt="SQLmap"/>
   </a>
 </p>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 💻 **Programming:**  
 
 <p align="left">
@@ -103,7 +102,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 **AI & NLP:**  
 <p align="left">
   <!-- LLMs -->
@@ -127,7 +126,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ☁️ **Cloud Security:**  
 <p align="left">
   <!-- AWS IAM -->
@@ -145,8 +144,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
     <img src="https://azure.microsoft.com/svghandler/security-center?width=600&height=315" width="100" alt="Azure Security Center"/>
   </a>
 </p>
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗂️ **DevSecOps:**  
 <p align="left">
@@ -175,8 +173,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
     <img src="https://www.open-scap.org/images/openscap.png" width="100" alt="OpenSCAP"/>
   </a>
 </p>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------
 ## 🏅 Badges & Certifications
 
 <h3>🏅 Cisco </h3>
@@ -198,146 +195,3 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
 </p>
-
-<h3>🔧 Tools & Technologies</h3>
-
-<!-- Programming Languages -->
-<p align="left">
-  <a href="https://www.python.org" title="Python">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com" title="Java">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.ruby-lang.org/" title="Ruby">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash">
-    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  </a>
-</p>
-
-<!-- Operating Systems -->
-<p align="left">
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <a href="https://www.kali.org/" title="Kali Linux">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  </a>
-</p>
-
-<!-- Security Tools -->
-<p align="left">
-  <a href="https://www.wireshark.org/" title="Wireshark">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  </a>
-  <a href="https://portswigger.net/burp" title="Burp Suite">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  </a>
-  <a href="https://nmap.org/" title="Nmap">
-    <img src="https://img.shields.io/badge/Nmap-5F7FFF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  </a>
-  <a href="https://www.metasploit.com/" title="Metasploit">
-    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  </a>
-  <a href="https://www.openwall.com/john/" title="John the Ripper">
-    <img src="https://img.shields.io/badge/John_The_Ripper-FF6F61?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
-  </a>
-  <a href="https://github.com/vanhauser-thc/thc-hydra" title="Hydra">
-    <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge&logoColor=white" alt="Hydra"/>
-  </a>
-  <a href="https://sqlmap.org/" title="SQLmap">
-    <img src="https://img.shields.io/badge/SQLmap-FC0A0A?style=for-the-badge&logoColor=white" alt="SQLmap"/>
-  </a>
-</p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3>🛠️ Languages & Tools</h3>
-
-<p align="left">
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  </a>
-
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" title="Bash">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  </a>
-
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" title="Kali Linux">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" alt="Kali Linux"/>
-  </a>
-
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" title="Wireshark">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" width="40" alt="Wireshark"/>
-  </a>
-
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" title="Burp Suite">
-    <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
-  </a>
-
-  <!-- C -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  </a>
-
-  <!-- C++ -->
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  </a>
-
-  <!-- Ruby -->
-  <a href="https://www.ruby-lang.org/" title="Ruby">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
-  </a>
-</p>
-
