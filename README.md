@@ -41,18 +41,12 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
 
 
-
-## 🎓 Cisco Networking Academy Badges
+<h3>🏅 Cisco Verified Badges</h3>
 
 <p align="left">
-  <img src="assets/cisco/python-essentials-1.1.png" width="100" alt="Python Essentials 1"/>
-  <img src="assets/cisco/python-essentials-2.png" width="100" alt="Python Essentials 2"/>
-  <img src="assets/cisco/ethical-hacker.png" width="100" alt="Ethical Hacker"/>
-  <img src="assets/cisco/ccna-introduction-to-networks.png" width="100" alt="CCNA: Introduction to Networks"/>
-  <img src="assets/cisco/ccna-switching-routing-and-wireless-essentials.1.png" width="100" alt="CCNA: SRWE"/>
-  <img src="assets/cisco/ccna-enterprise-networking-security-and-automation.png" width="100" alt="CCNA: ENSA"/>
-  <img src="assets/cisco/computer-hardware-basics.png" width="100" alt="Computer Hardware Basics"/>
+  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="75"/>
 </p>
+
 
 
 <h3>🏅 TryHackMe </h3>
