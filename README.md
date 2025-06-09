@@ -39,7 +39,12 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logoColor=white)
 
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
-![TryHackMe](https://assets.tryhackme.com/img/badges/owasptop10.svg)
+<h3>🏅TryHackMe </h3>
+
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge 1" width="150"/>
+<img src="https://your-url.com/owasp-badge2.svg" alt="Badge 2" width="150"/>
+
+![TryHackMe]()
 ![TryHackMe](https://assets.tryhackme.com/img/badges/webbed.svg)
 ![TryHackMe](https://assets.tryhackme.com/img/badges/aoc5.svg)
 ![TryHackMe](https://assets.tryhackme.com/img/badges/linux.svg)
