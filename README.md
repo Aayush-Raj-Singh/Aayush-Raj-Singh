@@ -28,7 +28,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logoColor=white)
 
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
-[TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2484703" style='border:none;'></iframe>)
+![TryHackMe](https://tryhackme.com/img/thm_public_badge_bg.svg)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 ![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
