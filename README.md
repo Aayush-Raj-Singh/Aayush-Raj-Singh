@@ -13,6 +13,28 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 🔒 **Cybersecurity:**  
 Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
 
+<p align="left">
+  <!-- Linux -->
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  </a>
+
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" title="Kali Linux">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" alt="Kali Linux"/>
+  </a>
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" title="Wireshark">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" width="40" alt="Wireshark"/>
+  </a>
+
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" title="Burp Suite">
+    <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
+  </a>
+</p>
+
 💻 **Programming:**  
 Python, Bash, Java, PowerShell, JavaScript, C/C++, Ruby
 
