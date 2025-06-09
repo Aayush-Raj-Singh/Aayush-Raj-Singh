@@ -28,30 +28,29 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ---
 
 ## 🏅 Badges & Certifications
-<h3>🔧 Tools & Technologies</h3>
+<h3>🎓 Cisco Networking Academy Badges</h3>
+
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <a href="https://www.credly.com/badges/19e742ef-13be-4d26-87ed-ac8f5fd0643c" title="Python Essentials 1">
+    <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" width="80" />
+  </a>
+  <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58" title="Python Essentials 2">
+    <img src="https://images.credly.com/size/128x128/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Python Essentials 2" width="80" />
+  </a>
+  <a href="https://www.credly.com/badges/70d71df5-f3dc-4380-9b9d-f22513a70417" title="CCNA: Introduction to Networks">
+    <img src="https://images.credly.com/size/128x128/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: ITN" width="80" />
+  </a>
+  <a href="https://www.credly.com/badges/f4ccdba9-dd65-4349-baad-8f05df116443" title="CCNA: Switching, Routing, Wireless Essentials">
+    <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: SRWE" width="80" />
+  </a>
+  <a href="https://www.credly.com/badges/68c0b94d-f6ac-40b1-a0e0-921439eb092e" title="Ethical Hacker">
+    <img src="https://images.credly.com/size/128x128/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Ethical Hacker" width="80" />
+  </a>
+  <a href="https://www.credly.com/badges/0a6d331e-8abf-4272-a949-33f754569a76" title="CCNA: Enterprise Networking, Security and Automation">
+    <img src="https://images.credly.com/size/128x128/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: ENSA" width="80" />
+  </a>
 </p>
-<p align="left">
-  <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-</p>
-<p align="left">
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Nmap-5F7FFF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-FF6F61?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
-  <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge&logoColor=white" alt="Hydra"/>
-  <img src="https://img.shields.io/badge/SQLmap-FC0A0A?style=for-the-badge&logoColor=white" alt="SQLmap"/>
-</p>
+
 <h3>🏅 Cisco </h3>
 <p align="left">
   <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" width="75"/>
