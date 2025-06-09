@@ -9,12 +9,23 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 - 🛠️ Building tools and automation for vulnerability scanning and incident response.
 
 ## 🧰 Tech Stack & Tools
-```bash
-🔒 Cybersecurity: Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
-💻 Programming: Python, Bash, Java, PowerShell, JavaScript,C/C++,Ruby
-🧠 AI & NLP: LLMs, Transformers, LangChain, ChatGPT API
-☁️ Cloud Security: AWS IAM, S3 Security, Azure Security Center
-🗂️ DevSecOps: GitHub Actions, Docker,....
+
+🔒 **Cybersecurity:**  
+Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
+
+💻 **Programming:**  
+Python, Bash, Java, PowerShell, JavaScript, C/C++, Ruby
+
+🧠 **AI & NLP:**  
+LLMs, Transformers, LangChain, ChatGPT API
+
+☁️ **Cloud Security:**  
+AWS IAM, S3 Security, Azure Security Center
+
+🗂️ **DevSecOps:**  
+GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
+
+---
 
 ## 🏅 Badges & Certifications
 
@@ -46,3 +57,4 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
