@@ -39,7 +39,18 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logoColor=white)
 
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
-<h3>🏅 TryHackMe Badges</h3>
+
+<h3>🏅 Cisco </h3>
+
+<p align="left">
+  <img src="https://www.credly.com/badges/39da3fe7-f20d-4d16-bdc8-6b9bc9023731/public_url" alt="python essential 2" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
+</p>
+<h3>🏅 TryHackMe </h3>
 
 <p align="left">
   <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="75"/>
@@ -50,21 +61,4 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
 </p>
 
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-
-![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
