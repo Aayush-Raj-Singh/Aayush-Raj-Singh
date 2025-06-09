@@ -28,29 +28,41 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ---
 
 ## 🏅 Badges & Certifications
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logoColor=white)
-
-![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
-
-
-<h3>🏅 Cisco Verified Badges</h3>
-
+<h3>🔧 Tools & Technologies</h3>
 <p align="left">
-  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="75"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
-
-
-
+<p align="left">
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+</p>
+<p align="left">
+  <!-- Security Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-5F7FFF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-FF6F61?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+  <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge&logoColor=white" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/SQLmap-FC0A0A?style=for-the-badge&logoColor=white" alt="SQLmap"/>
+</p>
+<h3>🏅 Cisco </h3>
+<p align="left">
+  <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: SRWE" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: ENSA" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Computer Hardware Basics" width="75"/>
+</p>
 <h3>🏅 TryHackMe </h3>
-
 <p align="left">
   <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="75"/>
@@ -58,6 +70,62 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
   <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
+</p>
+
+<h3>🔧 Tools & Technologies</h3>
+
+<!-- Programming Languages -->
+<p align="left">
+  <a href="https://www.python.org" title="Python">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.java.com" title="Java">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://www.ruby-lang.org/" title="Ruby">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  </a>
+</p>
+
+<!-- Operating Systems -->
+<p align="left">
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.kali.org/" title="Kali Linux">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  </a>
+</p>
+
+<!-- Security Tools -->
+<p align="left">
+  <a href="https://www.wireshark.org/" title="Wireshark">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
+  <a href="https://portswigger.net/burp" title="Burp Suite">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  </a>
+  <a href="https://nmap.org/" title="Nmap">
+    <img src="https://img.shields.io/badge/Nmap-5F7FFF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  </a>
+  <a href="https://www.metasploit.com/" title="Metasploit">
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  </a>
+  <a href="https://www.openwall.com/john/" title="John the Ripper">
+    <img src="https://img.shields.io/badge/John_The_Ripper-FF6F61?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" title="Hydra">
+    <img src="https://img.shields.io/badge/Hydra-4B8BBE?style=for-the-badge&logoColor=white" alt="Hydra"/>
+  </a>
+  <a href="https://sqlmap.org/" title="SQLmap">
+    <img src="https://img.shields.io/badge/SQLmap-FC0A0A?style=for-the-badge&logoColor=white" alt="SQLmap"/>
+  </a>
 </p>
 
 
