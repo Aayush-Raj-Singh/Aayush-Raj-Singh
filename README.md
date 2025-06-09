@@ -33,7 +33,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
     <!-- Nmap -->
   <a href="https://nmap.org/" title="Nmap">
-    <img src="https://nmap.org/images/nmap-logo-1.svg" width="40" alt="Nmap"/>
+    <img src="[https://nmap.org/](https://nmap.org/images/sitelogo-2x.png)" width="40" alt="Nmap"/>
   </a>
 
   <!-- Metasploit -->
@@ -43,7 +43,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 
   <!-- John the Ripper -->
   <a href="https://www.openwall.com/john/" title="John the Ripper">
-    <img src="https://www.openwall.com/john/images/john-logo-64.png" width="40" alt="John the Ripper"/>
+    <img src="https://www.openwall.com/john/tshirt1.png" width="40" alt="John the Ripper"/>
   </a>
 
   <!-- Hydra -->
