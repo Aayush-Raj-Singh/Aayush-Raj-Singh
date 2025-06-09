@@ -12,7 +12,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 
 🔒 **Cybersecurity:**  
 <p align="left">
-  <!-- Linux -->
+  <!Linux>
   <a href="https://www.linux.org/" title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   </a>
@@ -24,18 +24,18 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   <a href="https://www.wireshark.org/" title="Wireshark">
     <img src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png" width="40" alt="Wireshark"/>
   </a>
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" title="Burp Suite">
-    <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
-  </a>
-  <!-- Nmap -->
-  <a href="https://nmap.org/" title="Nmap">
-    <img src="https://nmap.org/images/sitelogo-2x.png" width="40" alt="Nmap"/>
-  </a>
+   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" title="Metasploit">
     <img src="https://media.licdn.com/dms/image/v2/C5633AQHz6xjHG_s0fQ/productpage-image_1128_635/productpage-image_1128_635/0/1626341063105/isoc24_b_v__metasploit_rapid7_image?e=2147483647&v=beta&t=5nKtSmBtM7ZjgxteR6bOl4Q0MqV7dT0t5BUvsuGNgM4" width="40" alt="Metasploit"/>
   </a>
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" title="Burp Suite">
+    <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
+  </a>
+  <!Nmap >
+  <a href="https://nmap.org/" title="Nmap">
+    <img src="https://nmap.org/images/sitelogo-2x.png" width="40" alt="Nmap"/>
   <!-- John the Ripper -->
   <a href="https://www.openwall.com/john/" title="John the Ripper">
     <img src="https://www.openwall.com/john/tshirt1.png" width="40" alt="John the Ripper"/>
