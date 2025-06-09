@@ -11,8 +11,6 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
 ## 🧰 Tech Stack & Tools
 
 🔒 **Cybersecurity:**  
-Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
-
 <p align="left">
   <!-- Linux -->
   <a href="https://www.linux.org/" title="Linux">
@@ -32,6 +30,30 @@ Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" title="Burp Suite">
     <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
+  </a>
+    <!-- Nmap -->
+  <a href="https://nmap.org/" title="Nmap">
+    <img src="https://nmap.org/images/nmap-logo-1.svg" width="40" alt="Nmap"/>
+  </a>
+
+  <!-- Metasploit -->
+  <a href="https://www.metasploit.com/" title="Metasploit">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Metasploit_logo.svg" width="40" alt="Metasploit"/>
+  </a>
+
+  <!-- John the Ripper -->
+  <a href="https://www.openwall.com/john/" title="John the Ripper">
+    <img src="https://www.openwall.com/john/images/john-logo-64.png" width="40" alt="John the Ripper"/>
+  </a>
+
+  <!-- Hydra -->
+  <a href="https://github.com/vanhauser-thc/thc-hydra" title="Hydra">
+    <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/doc/hydra.png" width="40" alt="Hydra"/>
+  </a>
+
+  <!-- SQLmap -->
+  <a href="https://sqlmap.org/" title="SQLmap">
+    <img src="https://sqlmap.org/images/logo.png" width="40" alt="SQLmap"/>
   </a>
 </p>
 
