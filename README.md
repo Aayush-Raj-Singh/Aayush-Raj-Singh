@@ -34,7 +34,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" title="Metasploit">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Metasploit_logo.svg" width="40" alt="Metasploit"/>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAflBMVEX///8qZpINeLkAc7cdYI4AdriLpr2QtdcAcLUhYo9DjMO40OWNpLxsjq0AbbSVrcLz9/oAarMRXIwAVojP3eze5ezn7/aXudnc6PLP2uTs8fSqxd9/qtFQj8RWf6KDnriqvM1qnsu+zNnE1uhId50xgb0AToRfh6g7cJl1lrKaDFPnAAABuElEQVRIieXW25aCIBQGYE67xCYUsHPZQZum93/BQZ1SSxBum//KBX6x2CZbhP5xtuss22wW2wCS7fYHIqUQkVJaa54fT5txNI2liCgAqYLrcGZ+oEwcuDhLQRtCOvCh9f0y7PaSkn5wP1wfB+HUOKhig5hNrLBO9AK5qsPtMCqavQroQlY283Nuh7PmKhMd+HA+EK0jeECWowCIlnWJjFM3FATRlkAF1byd94MovVKC1b0z7wkRiqnqPXBviA79+8ZhOjjtAeN1f2Lz5QtF1h0/fXtDEEU7fNTMH4LY/Q2mucIBkBA5rS8XnOMwSGRd24nCoVDUMGEfB3cueLNDunLB0gH3LsjspxzEDrhVNjiLiGghAUo54/gJLworSw8QpKlODP0DuYE5x3zYoVUEYIVmQW1ZEKEr0LMFpqY0N5tDSwFiNQxL85pYnTn7JTFv4gCcM66cXb2QIIvDK0wmiquFy1VrQtte28bI2Ygz/WaosbIfy5HZTRrTV6jycVblLPqw23ncWcnu54pOfF3Vkp+N1fF/GcqS0AaOPoa3HEQFvcr5ErNRrO/j970no2Hba5OGfHN+Yn4B5YsdgLX+qm4AAAAASUVORK5CYII=" width="40" alt="Metasploit"/>
   </a>
   <!-- John the Ripper -->
   <a href="https://www.openwall.com/john/" title="John the Ripper">
