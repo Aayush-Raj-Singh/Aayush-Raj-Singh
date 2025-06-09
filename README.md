@@ -41,7 +41,7 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
 <h3>🏅 TryHackMe Badges</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="75"/>
   <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" width="75"/>
