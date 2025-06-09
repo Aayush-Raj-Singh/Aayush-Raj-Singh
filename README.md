@@ -28,28 +28,6 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ---
 
 ## 🏅 Badges & Certifications
-<h3>🎓 Cisco Networking Academy Badges</h3>
-
-<p align="left">
-  <a href="https://www.credly.com/badges/19e742ef-13be-4d26-87ed-ac8f5fd0643c" title="Python Essentials 1">
-    <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" width="80" />
-  </a>
-  <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58" title="Python Essentials 2">
-    <img src="https://images.credly.com/size/128x128/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Python Essentials 2" width="80" />
-  </a>
-  <a href="https://www.credly.com/badges/70d71df5-f3dc-4380-9b9d-f22513a70417" title="CCNA: Introduction to Networks">
-    <img src="https://images.credly.com/size/128x128/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: ITN" width="80" />
-  </a>
-  <a href="https://www.credly.com/badges/f4ccdba9-dd65-4349-baad-8f05df116443" title="CCNA: Switching, Routing, Wireless Essentials">
-    <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: SRWE" width="80" />
-  </a>
-  <a href="https://www.credly.com/badges/68c0b94d-f6ac-40b1-a0e0-921439eb092e" title="Ethical Hacker">
-    <img src="https://images.credly.com/size/128x128/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Ethical Hacker" width="80" />
-  </a>
-  <a href="https://www.credly.com/badges/0a6d331e-8abf-4272-a949-33f754569a76" title="CCNA: Enterprise Networking, Security and Automation">
-    <img src="https://images.credly.com/size/128x128/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: ENSA" width="80" />
-  </a>
-</p>
 
 <h3>🏅 Cisco </h3>
 <p align="left">
@@ -127,4 +105,89 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
   </a>
 </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>🛠️ Languages & Tools</h3>
+
+<p align="left">
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  </a>
+
+  <!-- Java -->
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  </a>
+
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" title="Bash">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  </a>
+
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" title="Kali Linux">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" alt="Kali Linux"/>
+  </a>
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" title="Wireshark">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" width="40" alt="Wireshark"/>
+  </a>
+
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" title="Burp Suite">
+    <img src="https://avatars.githubusercontent.com/u/8943532?s=200&v=4" width="40" alt="Burp Suite"/>
+  </a>
+
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  </a>
+
+  <!-- Ruby -->
+  <a href="https://www.ruby-lang.org/" title="Ruby">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
+  </a>
+</p>
 
