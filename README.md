@@ -41,15 +41,13 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
 <h3>🏅TryHackMe </h3>
 
-<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge 1" width="150"/>
-<img src="https://your-url.com/owasp-badge2.svg" alt="Badge 2" width="150"/>
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge 1" width="120"/>
+<img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Badge 2" width="120"/>
+<img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Badge 3" width="120"/>
+<img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Badge 4" width="120"/>
+<img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Badge 5" width="120"/>
+<img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="Badge 6" width="120"/>
 
-![TryHackMe]()
-![TryHackMe](https://assets.tryhackme.com/img/badges/webbed.svg)
-![TryHackMe](https://assets.tryhackme.com/img/badges/aoc5.svg)
-![TryHackMe](https://assets.tryhackme.com/img/badges/linux.svg)
-![TryHackMe](https://assets.tryhackme.com/img/badges/securityawareness.svg)
-![TryHackMe](https://assets.tryhackme.com/img/badges/howthewebworks.svg)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 ![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
