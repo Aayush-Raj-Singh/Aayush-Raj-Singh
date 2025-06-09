@@ -43,13 +43,23 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 <h3>🏅 Cisco </h3>
 
 <p align="left">
-  <img src="https://www.credly.com/badges/39da3fe7-f20d-4d16-bdc8-6b9bc9023731/public_url" alt="python essential 2" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
+  <a href="https://www.credly.com/badges/c2914245-fc29-4999-95f8-308a625e83e8/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/…/badge1.png" alt="Badge 1" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/39da3fe7-f20d-4d16-bdc8-6b9bc9023731/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/…/badge2.png" alt="Badge 2" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/0d897ba4-0722-4b4d-83e5-c01117ba2901/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/…/badge3.png" alt="Badge 3" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/beebaa7b-a35c-4a0f-9fe3-82ea2a467ad0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/…/badge4.png" alt="Badge 4" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/3c1194ea-361e-4925-94a9-074ecfcdcfb0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/…/badge5.png" alt="Badge 5" width="100"/>
+  </a>
 </p>
+
 <h3>🏅 TryHackMe </h3>
 
 <p align="left">
