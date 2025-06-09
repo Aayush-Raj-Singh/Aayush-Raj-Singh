@@ -40,7 +40,11 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
 ![TryHackMe](https://assets.tryhackme.com/room-badges/98641480a0e62c4c44bb2d42d69a5e2c.png)
-!(https://assets.tryhackme.com/room-badges/f98eb03b5702749e5e72b23434bb53c6.png)
+![TryHackMe](https://assets.tryhackme.com/room-badges/f98eb03b5702749e5e72b23434bb53c6.png)
+![TryHackMe](https://assets.tryhackme.com/room-badges/8e083d063c5b6c29edb6d209398befca.png)
+![TryHackMe](https://assets.tryhackme.com/room-badges/6dbd2e4e5b1eefdcc906d8f9f8c5b658.png)
+![TryHackMe](https://assets.tryhackme.com/room-badges/3824b144708a5c1dd4a88ee748feedfb.png)
+![TryHackMe](https://assets.tryhackme.com/room-badges/22802e0db238ab758f3a7589c4c0728b.png)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 ![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
