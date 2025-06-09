@@ -26,7 +26,7 @@ Nmap, Wireshark, Burp Suite, Metasploit, OSINT, Kali Linux
 
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" title="Wireshark">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" width="40" alt="Wireshark"/>
+    <img src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png" width="40" alt="Wireshark"/>
   </a>
 
   <!-- Burp Suite -->
