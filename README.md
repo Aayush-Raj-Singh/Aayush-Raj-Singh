@@ -39,14 +39,16 @@ GitHub Actions, Docker, SonarQube, Trivy, OpenSCAP
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF3300?style=for-the-badge&logoColor=white)
 
 ![OSCP (In Progress)](https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge&logo=offensive-security)
-<h3>🏅TryHackMe </h3>
+<h3>🏅 TryHackMe Badges</h3>
 
-<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge 1" width="120"/>
-<img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Badge 2" width="120"/>
-<img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Badge 3" width="120"/>
-<img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Badge 4" width="120"/>
-<img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Badge 5" width="120"/>
-<img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="Badge 6" width="120"/>
+<p align="center">
+  <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="75"/>
+</p>
 
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
