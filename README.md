@@ -33,7 +33,7 @@ Hi, I'm **AAYUSH RAJ** — a passionate cybersecurity enthusiast with a strong f
   </a>
     <!-- Nmap -->
   <a href="https://nmap.org/" title="Nmap">
-    <img src="[https://nmap.org/](https://nmap.org/images/sitelogo-2x.png)" width="40" alt="Nmap"/>
+    <img src="https://nmap.org/images/sitelogo-2x.png" width="40" alt="Nmap"/>
   </a>
 
   <!-- Metasploit -->
