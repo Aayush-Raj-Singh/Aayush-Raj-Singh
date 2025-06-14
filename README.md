@@ -14,6 +14,10 @@ Standardized all widths to 99px for consistency
 
 <p>Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.</p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Student at Work" width="600"/>
+</p>
+
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🔐 Cybersecurity-focused developer with hands-on skills in penetration testing, secure coding, and threat modeling.</li>
