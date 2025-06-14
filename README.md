@@ -20,6 +20,7 @@
       <p>
         To me, cybersecurity is more than tech—it's a mission. In our connected world, each secure system is a step toward a safer digital future. With every line of code and threat analyzed, I’m building not just skills, but trust in technology.
       </p>
+  <td>  
   <style>
   .light-img { display: block; }
   .dark-img { display: none; }
