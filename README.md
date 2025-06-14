@@ -9,13 +9,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="65%">
+      <td align="left" width="45%">
         <p>
           Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.
         </p>
       </td>
-      <td width="35%" align="center">
-        <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="220">
+      <td width="55%" align="center">
+        <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="450">
       </td>
     </tr>
   </table>
