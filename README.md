@@ -1,4 +1,9 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh)
+<p align="right">
+  <a href="https://github.com/Aayush-Raj-Singh">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=Explorer" alt="Explorer Count" />
+  </a>
+</p>
+
 <!--
 Refined README HTML snippet for AAYUSH RAJ
 Includes: Tech Stack, Programming Languages, AI/NLP Tools, Cloud Security, DevSecOps, and Badges
