@@ -25,7 +25,7 @@
         I’m not just building skills—I’m helping build trust in technology.
       </p>
     </td>
-    <td width="25%" align="right" style="padding-left: 20px;">
+    <td width="25%" align="right" style="padding-left: 75px;">
       <img 
         src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" 
         alt="Cybersecurity Setup" 
