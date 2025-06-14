@@ -7,7 +7,7 @@
 <h1>🛡️ Welcome to My GitHub — Future Cybersecurity Architect 👨‍💻</h1>
 <table style="width: 100%;">
   <tr>
-    <td width="70%">
+    <td width="75%">
       <p>
         Hi, I'm <strong>AAYUSH RAJ</strong>. My journey into cybersecurity didn’t start with code, but with curiosity. 
         As a teenager, I was captivated by how systems operate—and even more intrigued by how they fail. 
@@ -25,7 +25,7 @@
         I’m not just building skills—I’m helping build trust in technology.
       </p>
     </td>
-    <td width="30%" align="right" style="padding-left: 20px;">
+    <td width="25%" align="right" style="padding-left: 20px;">
       <img 
         src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" 
         alt="Cybersecurity Setup" 
