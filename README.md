@@ -6,24 +6,29 @@
 
 <h1>🛡️ Welcome to My GitHub — Future Cybersecurity Architect 👨‍💻</h1>
 
-<table>
-  <tr>
-    <td>
-      <p>Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.</p>
-    </td>
-    <td align="right" style="padding-left: 20px;">
-      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="600"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="65%">
+        <p>
+          Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.
+        </p>
+      </td>
+      <td width="35%" align="center">
+        <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="220">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🔐 Cybersecurity-focused developer with hands-on skills in penetration testing, secure coding, and threat modeling.</li>
-  <li>🎓 Lifelong learner diving deep into Red Teaming, Blue Teaming, and Security Architecture.</li>
-  <li>📈 Currently leveling up my <strong>Data Structures and Algorithms (DSA)</strong> skills in Java.</li>
-  <li>🛠️ Building tools and automation for vulnerability scanning and incident response.</li>
-</ul>
+---
+
+## 👨‍💻 About Me
+
+- 🔐 Cybersecurity-focused developer with hands-on skills in penetration testing, secure coding, and threat modeling.  
+- 🎓 Lifelong learner diving deep into Red Teaming, Blue Teaming, and Security Architecture.  
+- 📈 Currently leveling up my **Data Structures and Algorithms (DSA)** skills in Java.  
+- 🛠️ Building tools and automation for vulnerability scanning and incident response.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
