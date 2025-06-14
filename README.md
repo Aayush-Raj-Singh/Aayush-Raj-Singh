@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/Aayush-Raj-Singh">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=Explorer Count" alt="Explorer Count" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=Explorer_Count" alt="Explorer Count" />
   </a>
 </p>
 
