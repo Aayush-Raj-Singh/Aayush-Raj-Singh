@@ -20,14 +20,31 @@
       <p>
         To me, cybersecurity is more than tech—it's a mission. In our connected world, each secure system is a step toward a safer digital future. With every line of code and threat analyzed, I’m building not just skills, but trust in technology.
       </p>
-    </td>
-    <td width="25%" align="right" style="padding-left: 75px;">
-      <img 
-        src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" 
-        alt="Cybersecurity Setup" 
-        width="400"
-      />
-    </td>
+  <style>
+  .light-img { display: block; }
+  .dark-img { display: none; }
+
+  @media (prefers-color-scheme: dark) {
+    .light-img { display: none; }
+    .dark-img { display: block; }
+  }
+</style>
+
+<td width="25%" align="right" style="padding-left: 75px;">
+  <img 
+    src="light-mode-image.png" 
+    alt="Cybersecurity Setup Light" 
+    width="300" 
+    class="light-img"
+  />
+  <img 
+    src="dark-mode-image.png" 
+    alt="Cybersecurity Setup Dark" 
+    width="450" 
+    class="dark-img"
+  />
+</td>
+
   </tr>
 </table>
 
