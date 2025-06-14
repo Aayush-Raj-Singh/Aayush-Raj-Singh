@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh)
 <!--
 Refined README HTML snippet for AAYUSH RAJ
 Includes: Tech Stack, Programming Languages, AI/NLP Tools, Cloud Security, DevSecOps, and Badges
