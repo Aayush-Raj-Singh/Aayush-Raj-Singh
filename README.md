@@ -10,14 +10,12 @@
     <td width="75%">
       <p>
         Hi, I'm <strong>AAYUSH RAJ</strong>. My journey into cybersecurity didn’t start with code, but with curiosity. 
-        As a teenager, I was captivated by how systems operate—and even more intrigued by how they fail. 
-        That curiosity grew into a relentless drive to explore the hidden layers of technology, to understand not just how things work, 
-        but how they can be made stronger, smarter, and more secure.
+      As a teenager, I was drawn to how systems work—and even more to how they break. That spark grew into a passion for making technology smarter, stronger, and more secure.
       </p>
       <p>
         Today, I’m immersed in the world of <strong>offensive and defensive security</strong>, learning the nuances of 
         <strong>penetration testing, vulnerability analysis, and network defense</strong>. Every tool I master, every concept I explore, 
-        strengthens my vision of becoming a <strong>Cybersecurity Architect</strong> — someone who designs systems with resilience at their core.
+        strengthens my vision of becoming a <strong>Cybersecurity Architect</strong>.
       </p>
       <p>
         For me, cybersecurity isn't just a technical discipline—it's a mission. In a hyperconnected world, every secure system, 
