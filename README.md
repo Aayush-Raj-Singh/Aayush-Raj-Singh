@@ -4,6 +4,36 @@
   </a>
 </p>
 
+<h1>🛡️ Welcome to My GitHub — Future Cybersecurity Architect 👨‍💻</h1>
+
+<table>
+  <tr>
+    <td>
+      <p>Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.</p>
+    </td>
+    <td align="right" style="padding-left: 20px;">
+      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="300"/>
+    </td>
+  </tr>
+</table>
+
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🔐 Cybersecurity-focused developer with hands-on skills in penetration testing, secure coding, and threat modeling.</li>
+  <li>🎓 Lifelong learner diving deep into Red Teaming, Blue Teaming, and Security Architecture.</li>
+  <li>📈 Currently leveling up my <strong>Data Structures and Algorithms (DSA)</strong> skills in Java.</li>
+  <li>🛠️ Building tools and automation for vulnerability scanning and incident response.</li>
+</ul>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="left">
+  <a href="https://github.com/Aayush-Raj-Singh">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=Explorer_Count" alt="Explorer Count" />
+  </a>
+</p>
+
 <!--
 Refined README HTML snippet for AAYUSH RAJ
 Includes: Tech Stack, Programming Languages, AI/NLP Tools, Cloud Security, DevSecOps, and Badges
@@ -13,10 +43,6 @@ Standardized all widths to 99px for consistency
 <h1>🛡️ Welcome to My GitHub — Future Cybersecurity Architect 👨‍💻</h1>
 
 <p>Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Student at Work" width="600"/>
-</p>
 
 <h2>👨‍💻 About Me</h2>
 <ul>
