@@ -12,7 +12,7 @@
       <p>Hi, I'm <strong>AAYUSH RAJ</strong> — a passionate cybersecurity enthusiast with a strong foundation in offensive and defensive security, network protection, and secure software development. I'm on a mission to become a <strong>Cybersecurity Architect</strong> and help build secure systems that scale.</p>
     </td>
     <td align="right" style="padding-left: 200px;">
-      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="300"/>
+      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="600"/>
     </td>
   </tr>
 </table>
