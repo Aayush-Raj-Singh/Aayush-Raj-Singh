@@ -18,9 +18,7 @@
         strengthens my vision of becoming a <strong>Cybersecurity Architect</strong>.
       </p>
       <p>
-        For me, cybersecurity isn't just a technical discipline—it's a mission. In a hyperconnected world, every secure system, 
-        every hardened application, is a step toward a safer future. With every line of code I write and every threat I analyze, 
-        I’m not just building skills—I’m helping build trust in technology.
+        To me, cybersecurity is more than tech—it's a mission. In our connected world, each secure system is a step toward a safer digital future. With every line of code and threat analyzed, I’m building not just skills, but trust in technology.
       </p>
     </td>
     <td width="25%" align="right" style="padding-left: 75px;">
