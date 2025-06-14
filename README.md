@@ -10,9 +10,12 @@
   <table>
     <tr>
       <td align="left" width="65%">
-     <p>
-  Hi, I'm <strong>AAYUSH RAJ</strong> — an ambitious and dedicated cybersecurity enthusiast with a comprehensive foundation in <strong>offensive security</strong> (ethical hacking, red teaming, vulnerability exploitation) and <strong>defensive security</strong> (network hardening, intrusion detection, and secure code practices). My journey in the field is driven by a deep curiosity about how systems can be broken — and more importantly, how they can be fortified. I’m actively sharpening my skills in <strong>penetration testing</strong>, <strong>threat intelligence</strong>, and <strong>incident response</strong> while building tools and automations that enhance cyber resilience. My long-term vision is to become a highly capable <strong>Cybersecurity Architect</strong> — someone who not only understands security at a granular technical level but also designs <strong>scalable, end-to-end secure architectures</strong> that withstand modern cyber threats. I believe in security by design, proactive defense, and contributing to a safer digital world.
+ <p>
+  Hi, I'm <strong>AAYUSH RAJ</strong> — my journey into cybersecurity began not with code, but with curiosity. As a teenager, I was fascinated by how systems work, and even more by how they break. That curiosity quickly evolved into a passion for understanding the inner workings of technology — the good, the bad, and the vulnerable. Today, I’m diving deep into the world of <strong>offensive and defensive security</strong>, mastering tools of the trade from <strong>penetration testing</strong> to <strong>network defense</strong>. Along the way, I’ve come to appreciate the art of building systems that don’t just function, but endure. My mission is clear: to grow into a <strong>Cybersecurity Architect</strong> who crafts secure, scalable infrastructures — systems built not only for performance but for resilience. Every line of code I write, every threat I study, brings me closer to that goal.  
+  <br/><br/>
+  I believe cybersecurity is not just a skill, but a responsibility in an increasingly connected world. With every project, I'm not just solving technical problems — I'm contributing to a safer digital future.
 </p>
+
       </td>
       <td width="35%" align="center">
         <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="350">
