@@ -15,7 +15,7 @@
       </p>
     </td>
     <td align="right" style="padding-left: 75px;">
-      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="300"/>
+      <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="600"/>
     </td>
   </tr>
 </table>
