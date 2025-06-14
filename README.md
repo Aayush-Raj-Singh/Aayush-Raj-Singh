@@ -9,12 +9,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="45%">
+      <td align="left" width="65%">
      <p>
   Hi, I'm <strong>AAYUSH RAJ</strong> — an ambitious and dedicated cybersecurity enthusiast with a comprehensive foundation in <strong>offensive security</strong> (ethical hacking, red teaming, vulnerability exploitation) and <strong>defensive security</strong> (network hardening, intrusion detection, and secure code practices). My journey in the field is driven by a deep curiosity about how systems can be broken — and more importantly, how they can be fortified. I’m actively sharpening my skills in <strong>penetration testing</strong>, <strong>threat intelligence</strong>, and <strong>incident response</strong> while building tools and automations that enhance cyber resilience. My long-term vision is to become a highly capable <strong>Cybersecurity Architect</strong> — someone who not only understands security at a granular technical level but also designs <strong>scalable, end-to-end secure architectures</strong> that withstand modern cyber threats. I believe in security by design, proactive defense, and contributing to a safer digital world.
 </p>
       </td>
-      <td width="55%" align="center">
+      <td width="35%" align="center">
         <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="350">
       </td>
     </tr>
