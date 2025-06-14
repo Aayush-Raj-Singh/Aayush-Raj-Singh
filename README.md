@@ -10,11 +10,11 @@
   <tr>
     <td>
       <p>
-        Hi, I'm <strong>AAYUSH RAJ</strong> — my journey into cybersecurity didn’t start with code, but with curiosity. As a teenager, I was captivated by how systems operate — and even more intrigued by how they fail. That curiosity grew into a relentless drive to explore the hidden layers of technology — to understand not just how things work, but how they can be made stronger, smarter, and more secure.
-        For me, cybersecurity isn't just a technical discipline — it's a mission. In a hyperconnected world, every secure system, every hardened application, is a step toward a safer future. With every line of code I write and every threat I analyze, I’m not just building skills — I’m helping build trust in technology.
+        Hi, I'm <strong>AAYUSH RAJ</strong>  my journey into cybersecurity didn’t start with code, but with curiosity. As a teenager, I was captivated by how systems operate  and even more intrigued by how they fail. That curiosity grew into a relentless drive to explore the hidden layers of technology to understand not just how things work, but how they can be made stronger, smarter, and more secure.
+        For me, cybersecurity isn't just a technical discipline, it's a mission. In a hyperconnected world, every secure system, every hardened application, is a step toward a safer future. With every line of code I write and every threat I analyze, I’m not just building skills I’m helping build trust in technology.
       </p>
     </td>
-    <td align="right" style="padding-left: 20px;">
+    <td align="right" style="padding-left: 75px;">
       <img src="https://i.postimg.cc/YqqtRt6B/Chat-GPT-Image-Jun-14-2025-10-35-18-PM.png" alt="Cybersecurity Setup" width="300"/>
     </td>
   </tr>
