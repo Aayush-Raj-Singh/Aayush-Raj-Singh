@@ -1,8 +1,9 @@
-<p align="left">
+<p align="center">
   <a href="https://github.com/Aayush-Raj-Singh">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=👁️ Explorer&color=green&style=flat-square" alt="Explorer Badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=🚀 Explorer&color=blue&style=for-the-badge" alt="Explorer Badge" />
   </a>
 </p>
+
 
 <!--
 Refined README HTML snippet for AAYUSH RAJ
