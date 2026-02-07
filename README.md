@@ -409,25 +409,6 @@ Security Specialty
 
 <div align="center">
 
-### 🛡️ My Mission
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200">
-<br/><br/>
-<i>"Security is not a product,<br/>but a process."</i>
-<br/>— Bruce Schneier
-</td>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
-<br/><br/>
-<i>"The only truly secure system is one<br/>that is powered off."</i>
-<br/>— Gene Spafford
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -436,8 +417,6 @@ Security Specialty
 
 ## ⭐ SUPPORT MY WORK
 
-<img src="https://media.giphy.com/media/3o7buiQeyYFamzRoR2/giphy.gif" width="150">
-
 **If my projects help you, consider:**
 
 [![Star](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge)](https://github.com/Aayush-Raj-Singh)
@@ -445,18 +424,6 @@ Security Specialty
 [![Share](https://img.shields.io/badge/📢_Share-25D366?style=for-the-badge)](https://github.com/Aayush-Raj-Singh)
 
 </div>
-
-<div align="center">
-
-### 📈 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Aayush-Raj-Singh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### 🙏 Thank You For Visiting!
 
