@@ -64,23 +64,6 @@
 
 <div align="center">
 
-**Skill Mastery Levels**
-
-</div>
-
-<br/>
-
-```ascii
-VAPT (Penetration Testing)              █████████████░░░░░░░ 65%
-Threat Intelligence & Analysis          ████████████░░░░░░░░ 60%
-Network Defense & Monitoring            ██████████████░░░░░░ 70%
-SIEM & SOC Operations                   ████████████████░░░░ 80%
-Incident Response & DFIR                ███████████████░░░░░ 75%
-Web Application Security                ██████████░░░░░░░░░░ 50%
-```
-
-<br/>
-
 ### 💻 Programming & Scripting
 
 <p align="center">
@@ -93,18 +76,6 @@ Web Application Security                ██████████░░░�
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-<br/>
-
-```ascii
-Python (Security Automation)            ████████████████████ 95%
-Bash Scripting                          █████████████████░░░ 85%
-C/C++ (Low-level Security)              ████████████████░░░░ 80%
-Java (Security Applications)            ███████████████░░░░░ 75%
-SQL (Database Security)                 ██████████░░░░░░░░░░ 50%
-```
-
-<br/>
 
 ### 🧠 AI/ML for Security
 
