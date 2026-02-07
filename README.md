@@ -234,47 +234,21 @@ Jun 2025 - Aug 2025
 
 <div align="center">
 
-## 📚 2026 LEARNING ROADMAP
-
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150">
+## 📊 DETAILED ANALYTICS
 
 </div>
 
-```text
-Q1 2026 ████████████████████ 100% ✅ EHE, CCNA Enterprise, SOC Operations
-Q2 2026 ██████████░░░░░░░░░░  50% 🔄 CEH Practical, Security+, Python Mastery
-Q3 2026 ███░░░░░░░░░░░░░░░░░  15% 📅 OSCP Prep, AWS Security Specialty
-Q4 2026 ░░░░░░░░░░░░░░░░░░░░   0% 📅 GIAC GSEC, Malware Analysis, OSCP Exam
-```
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Raj-Singh&theme=radical" width="100%"/>
+
+</div>
 
 <div align="center">
 
-### 🎯 Target Certifications
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/OSCP-A81922?style=for-the-badge"/><br/>
-<b>Offensive Security</b><br/>
-Certified Professional
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/CEH-E60000?style=for-the-badge"/><br/>
-<b>Certified Ethical</b><br/>
-Hacker (Practical)
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Security+-FF0000?style=for-the-badge"/><br/>
-<b>CompTIA</b><br/>
-Security+
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/><br/>
-<b>AWS Certified</b><br/>
-Security Specialty
-</td>
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
 
 </div>
 
@@ -345,8 +319,6 @@ Security Specialty
 <a href="https://aayush-raj-singh.github.io/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://www.credly.com/users/aayush-raj-singh">
-  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 
 </div>
@@ -354,53 +326,7 @@ Security Specialty
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-## 📊 DETAILED ANALYTICS
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Raj-Singh&theme=radical" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🎯 2026 GOALS TRACKER
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-
-</div>
-
-<div align="center">
-
-| Goal | Status | Progress |
-|:---|:---:|:---:|
-| 🏆 Achieve OSCP Certification | 📅 Planned | ![](https://geps.dev/progress/30) |
-| ✅ Complete 100+ Hours Enterprise Training | ✅ Done | ![](https://geps.dev/progress/100) |
-| ✅ Deploy 4+ Production Security Tools | ✅ Done | ![](https://geps.dev/progress/100) |
-| 🔄 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![](https://geps.dev/progress/40) |
-| 📝 Publish Security Research Papers | 📅 Planned | ![](https://geps.dev/progress/10) |
-| ✅ Gain SOC/VAPT Experience | ✅ Done | ![](https://geps.dev/progress/100) |
-| 🎤 Speak at Cybersecurity Conferences | 📅 Planned | ![](https://geps.dev/progress/0) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
+  
 ## 💡 SECURITY PHILOSOPHY
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700"/>
