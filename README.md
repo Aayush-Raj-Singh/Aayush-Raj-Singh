@@ -23,47 +23,6 @@
 
 <br/>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-## 🎯 IMPACT DASHBOARD
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-<h3>40+</h3>
-<p>Security Vulnerabilities<br/>Identified</p>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="80">
-<h3>25+</h3>
-<p>Attack Vectors<br/>Validated</p>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
-<h3>1,000+</h3>
-<p>Threat Indicators<br/>Processed Daily</p>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80">
-<h3>60-70%</h3>
-<p>Efficiency<br/>Improvement</p>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -112,12 +71,12 @@
 <br/>
 
 ```ascii
-VAPT (Penetration Testing)              ████████████████████ 95%
-Threat Intelligence & Analysis          ████████████████████ 95%
-Network Defense & Monitoring            █████████████████░░░ 85%
+VAPT (Penetration Testing)              █████████████░░░░░░░ 65%
+Threat Intelligence & Analysis          ████████████░░░░░░░░ 60%
+Network Defense & Monitoring            ██████████████░░░░░░ 70%
 SIEM & SOC Operations                   ████████████████░░░░ 80%
 Incident Response & DFIR                ███████████████░░░░░ 75%
-Web Application Security                ████████████████░░░░ 80%
+Web Application Security                ██████████░░░░░░░░░░ 50%
 ```
 
 <br/>
