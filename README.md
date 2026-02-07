@@ -213,6 +213,39 @@ Jun 2025 - Aug 2025
 
 <div align="center">
 
+<h2>🏅 Badges & Certifications</h2>
+
+<h3>🏅 Cisco</h3>
+<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" title="Python Essentials 1" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" title="Python Essentials 2" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" title="Ethical Hacker" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" title="CCNA: Introduction to Networks" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: SRWE" title="CCNA: SRWE" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: ENSA" title="CCNA: ENSA" width="75"/>
+  <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Computer Hardware Basics" title="Computer Hardware Basics" width="75"/>
+</div>
+
+<h3>🏅 TryHackMe</h3>
+<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" title="OWASP Top 10" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" title="Webbed" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" title="Advent of Cyber 5" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" title="Linux" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" title="Security Awareness" width="75"/>
+  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" title="How the Web Works" width="75"/>
+</div>
+
+<h3>🏅 Salesforce Trailhead Ranks</h3>
+<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/scout.png" alt="Scout" title="Scout" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/hiker.png" alt="Hiker" title="Hiker" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/explorer.png" alt="Explorer" title="Explorer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/adventurer.png" alt="Adventurer" title="Adventurer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/mountaineer.png" alt="Mountaineer" title="Mountaineer" width="75"/>
+  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Expeditioner" title="Expeditioner" width="75"/>
+</div>
+
 ### 📜 Training Programs
 
 <table>
