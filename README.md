@@ -16,6 +16,8 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aayush-Raj-Singh.Aayush-Raj-Singh&title=Visitors)](https://github.com/Aayush-Raj-Singh)
 [![GitHub followers](https://img.shields.io/github/followers/Aayush-Raj-Singh?label=Followers&style=social)](https://github.com/Aayush-Raj-Singh)
 [![GitHub Stars](https://img.shields.io/github/stars/Aayush-Raj-Singh?label=Stars&style=social)](https://github.com/Aayush-Raj-Singh)
+[![Years Badge](https://badges.pufler.dev/years/Aayush-Raj-Singh)](https://github.com/Aayush-Raj-Singh)
+[![Repos Badge](https://badges.pufler.dev/repos/Aayush-Raj-Singh)](https://github.com/Aayush-Raj-Singh)
 
 </div>
 
@@ -58,6 +60,54 @@
 
 <div align="center">
 
+## 🚀 ABOUT ME
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px">
+
+</div>
+
+```typescript
+const AayushRaj = {
+    pronouns: "He" | "Him",
+    location: "Bihar, India 🇮🇳",
+    role: "Cybersecurity Engineer",
+    education: "B.Tech CSE (Cybersecurity) | GPA: 8.04/10",
+    
+    specialization: [
+        "VAPT (Vulnerability Assessment & Penetration Testing)",
+        "SOC Operations & Threat Intelligence",
+        "Blue Team Defense & Incident Response",
+        "Security Automation & Tool Development"
+    ],
+    
+    currentlyLearning: [
+        "OSCP Preparation",
+        "Advanced Red Teaming Techniques",
+        "Cloud Security (AWS/Azure)",
+        "Malware Analysis & Reverse Engineering"
+    ],
+    
+    workExperience: {
+        "INVIGO INFOTECH": "SOC / VAPT Intern",
+        "InLighnX Global": "Offensive Security Intern",
+        "Cisco": "Virtual Cybersecurity Intern"
+    },
+    
+    achievements: {
+        vulnerabilitiesFound: 40,
+        attackVectorsValidated: 25,
+        threatIndicatorsProcessed: 1000,
+        trainingHours: 100,
+        clientsServed: 15
+    },
+    
+    funFact: "I automate security assessments to save 60% manual effort! 🤖"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
@@ -149,6 +199,134 @@ SQL (Database Security)                 ██████████░░░�
 
 <div align="center">
 
+## 📊 GITHUB STATISTICS
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-Raj-Singh&custom_title=Aayush's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aayush-Raj-Singh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Raj-Singh&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Raj-Singh&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush-Raj-Singh&theme=radical&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-Raj-Singh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush-Raj-Singh/Aayush-Raj-Singh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush-Raj-Singh/Aayush-Raj-Singh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aayush-Raj-Singh/Aayush-Raj-Singh/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎯 FEATURED SECURITY PROJECTS
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 Windows Vulnerability Scanner
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Aayush-Raj-Singh)
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
+
+**Tech Stack:**
+- Python | Network Analysis | CVE Database
+
+**Impact Metrics:**
+- ⚡ Scans 50+ system components
+- ⚡ 60% reduction in manual effort
+- ⚡ Automated CVE correlation
+- ⚡ Risk-scored reporting
+
+</td>
+<td width="50%">
+
+### 🧠 Threat Intel AI System
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Aayush-Raj-Singh)
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%">
+
+**Tech Stack:**
+- Python | ML | Web Scraping | NLP
+
+**Impact Metrics:**
+- ⚡ Processes 1,000+ indicators daily
+- ⚡ 70% faster threat awareness
+- ⚡ Real-time dark web monitoring
+- ⚡ CII protection focus
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Crypto Algorithm Identifier
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Aayush-Raj-Singh)
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%">
+
+**Tech Stack:**
+- Python | AI/ML | Pattern Recognition
+
+**Features:**
+- 🎯 Multi-algorithm classification
+- 🎯 Statistical feature extraction
+- 🎯 High accuracy rates
+- 🎯 Cryptanalysis support
+
+</td>
+<td width="50%">
+
+### 📡 OEM Vulnerability Monitor
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Aayush-Raj-Singh)
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%">
+
+**Tech Stack:**
+- Python | Web Scraping | Automation
+
+**Features:**
+- 🎯 Monitors 10+ OEM portals
+- 🎯 Real-time critical alerts
+- 🎯 70% latency reduction
+- 🎯 Automated patch tracking
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
 ## 💼 PROFESSIONAL JOURNEY
 
 </div>
@@ -179,6 +357,8 @@ timeline
 **SOC / VAPT Intern**<br/>
 Dec 2025 - Jan 2026
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
+
 ✅ 15+ client systems assessed<br/>
 ✅ 40+ vulnerabilities identified<br/>
 ✅ 30% efficiency improvement
@@ -190,6 +370,8 @@ Dec 2025 - Jan 2026
 **Penetration Testing Intern**<br/>
 Jun 2025 - Jul 2025
 
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="120">
+
 ✅ 25+ attack vectors validated<br/>
 ✅ MITRE ATT&CK methodology<br/>
 ✅ Enterprise environment testing
@@ -200,6 +382,8 @@ Jun 2025 - Jul 2025
 ### 🎯 Cisco
 **Cybersecurity Intern**<br/>
 Jun 2025 - Aug 2025
+
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120">
 
 ✅ 100+ training hours<br/>
 ✅ CCNA-level expertise<br/>
@@ -213,38 +397,50 @@ Jun 2025 - Aug 2025
 
 <div align="center">
 
-<h2>🏅 Badges & Certifications</h2>
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
-<h3>🏅 Cisco</h3>
-<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Python Essentials 1" title="Python Essentials 1" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" title="Python Essentials 2" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" title="Ethical Hacker" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" title="CCNA: Introduction to Networks" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: SRWE" title="CCNA: SRWE" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: ENSA" title="CCNA: ENSA" width="75"/>
-  <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Computer Hardware Basics" title="Computer Hardware Basics" width="75"/>
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="180">
+
 </div>
 
-<h3>🏅 TryHackMe</h3>
-<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" title="OWASP Top 10" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Webbed" title="Webbed" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" alt="Advent of Cyber 5" title="Advent of Cyber 5" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Linux" title="Linux" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" alt="Security Awareness" title="Security Awareness" width="75"/>
-  <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" title="How the Web Works" width="75"/>
+<details open>
+<summary><h3>🔐 Cybersecurity Certifications</h3></summary>
+
+<div align="center">
+
+| Certification | Issuer | Badge |
+|:---|:---:|:---:|
+| **Ethical Hacking Essentials (EHE)** | EC-Council | <img src="https://images.credly.com/size/110x110/images/6b115d46-9167-40d5-9fcf-5e1fcb84767e/image.png" width="80"/> |
+| **CCNA: Introduction to Networks** | Cisco | <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="80"/> |
+| **CCNA: SRWE** | Cisco | <img src="https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="80"/> |
+| **CCNA: ENSA** | Cisco | <img src="https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="80"/> |
+| **Python Essentials 1** | Cisco | <img src="https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="80"/> |
+| **Python Essentials 2** | Cisco | <img src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="80"/> |
+
 </div>
 
-<h3>🏅 Salesforce Trailhead Ranks</h3>
-<div style="width:99%; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/scout.png" alt="Scout" title="Scout" width="75"/>
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/hiker.png" alt="Hiker" title="Hiker" width="75"/>
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/explorer.png" alt="Explorer" title="Explorer" width="75"/>
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/adventurer.png" alt="Adventurer" title="Adventurer" width="75"/>
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/mountaineer.png" alt="Mountaineer" title="Mountaineer" width="75"/>
-  <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Expeditioner" title="Expeditioner" width="75"/>
+</details>
+
+<details>
+<summary><h3>🎮 TryHackMe Achievements</h3></summary>
+
+<div align="center">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Abhayaprabha.png" alt="TryHackMe Badge" width="250">
+
+| Badge | Achievement |
+|:---:|:---|
+| <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" width="80"/> | **OWASP Top 10** |
+| <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="80"/> | **Webbed** |
+| <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" width="80"/> | **Advent of Cyber 5** |
+| <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="80"/> | **Linux Fundamentals** |
+| <img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" width="80"/> | **Security Awareness** |
+
 </div>
+
+</details>
+
+<div align="center">
 
 ### 📜 Training Programs
 
@@ -267,21 +463,47 @@ Jun 2025 - Aug 2025
 
 <div align="center">
 
-## 📊 DETAILED ANALYTICS
+## 📚 2026 LEARNING ROADMAP
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150">
 
 </div>
 
+```text
+Q1 2026 ████████████████████ 100% ✅ EHE, CCNA Enterprise, SOC Operations
+Q2 2026 ██████████░░░░░░░░░░  50% 🔄 CEH Practical, Security+, Python Mastery
+Q3 2026 ███░░░░░░░░░░░░░░░░░  15% 📅 OSCP Prep, AWS Security Specialty
+Q4 2026 ░░░░░░░░░░░░░░░░░░░░   0% 📅 GIAC GSEC, Malware Analysis, OSCP Exam
+```
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Raj-Singh&theme=radical" width="100%"/>
+### 🎯 Target Certifications
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/OSCP-A81922?style=for-the-badge"/><br/>
+<b>Offensive Security</b><br/>
+Certified Professional
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/CEH-E60000?style=for-the-badge"/><br/>
+<b>Certified Ethical</b><br/>
+Hacker (Practical)
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Security+-FF0000?style=for-the-badge"/><br/>
+<b>CompTIA</b><br/>
+Security+
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/><br/>
+<b>AWS Certified</b><br/>
+Security Specialty
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -352,6 +574,8 @@ Jun 2025 - Aug 2025
 <a href="https://aayush-raj-singh.github.io/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
+<a href="https://www.credly.com/users/aayush-raj-singh">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 
 </div>
@@ -359,7 +583,53 @@ Jun 2025 - Aug 2025
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
+
+## 📊 DETAILED ANALYTICS
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush-Raj-Singh&theme=radical" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush-Raj-Singh&theme=radical" width="32%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎯 2026 GOALS TRACKER
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
+
+</div>
+
+<div align="center">
+
+| Goal | Status | Progress |
+|:---|:---:|:---:|
+| 🏆 Achieve OSCP Certification | 📅 Planned | ![](https://geps.dev/progress/30) |
+| ✅ Complete 100+ Hours Enterprise Training | ✅ Done | ![](https://geps.dev/progress/100) |
+| ✅ Deploy 4+ Production Security Tools | ✅ Done | ![](https://geps.dev/progress/100) |
+| 🔄 Contribute to 10+ Open Source Projects | 🔄 In Progress | ![](https://geps.dev/progress/40) |
+| 📝 Publish Security Research Papers | 📅 Planned | ![](https://geps.dev/progress/10) |
+| ✅ Gain SOC/VAPT Experience | ✅ Done | ![](https://geps.dev/progress/100) |
+| 🎤 Speak at Cybersecurity Conferences | 📅 Planned | ![](https://geps.dev/progress/0) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
 ## 💡 SECURITY PHILOSOPHY
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700"/>
@@ -367,6 +637,25 @@ Jun 2025 - Aug 2025
 </div>
 
 <div align="center">
+
+### 🛡️ My Mission
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200">
+<br/><br/>
+<i>"Security is not a product,<br/>but a process."</i>
+<br/>— Bruce Schneier
+</td>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
+<br/><br/>
+<i>"The only truly secure system is one<br/>that is powered off."</i>
+<br/>— Gene Spafford
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -376,6 +665,8 @@ Jun 2025 - Aug 2025
 
 ## ⭐ SUPPORT MY WORK
 
+<img src="https://media.giphy.com/media/3o7buiQeyYFamzRoR2/giphy.gif" width="150">
+
 **If my projects help you, consider:**
 
 [![Star](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge)](https://github.com/Aayush-Raj-Singh)
@@ -383,6 +674,18 @@ Jun 2025 - Aug 2025
 [![Share](https://img.shields.io/badge/📢_Share-25D366?style=for-the-badge)](https://github.com/Aayush-Raj-Singh)
 
 </div>
+
+<div align="center">
+
+### 📈 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Aayush-Raj-Singh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ### 🙏 Thank You For Visiting!
 
