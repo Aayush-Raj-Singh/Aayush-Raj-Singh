@@ -60,54 +60,6 @@
 
 <div align="center">
 
-## 🚀 ABOUT ME
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px">
-
-</div>
-
-```typescript
-const AayushRaj = {
-    pronouns: "He" | "Him",
-    location: "Bihar, India 🇮🇳",
-    role: "Cybersecurity Engineer",
-    education: "B.Tech CSE (Cybersecurity) | GPA: 8.04/10",
-    
-    specialization: [
-        "VAPT (Vulnerability Assessment & Penetration Testing)",
-        "SOC Operations & Threat Intelligence",
-        "Blue Team Defense & Incident Response",
-        "Security Automation & Tool Development"
-    ],
-    
-    currentlyLearning: [
-        "OSCP Preparation",
-        "Advanced Red Teaming Techniques",
-        "Cloud Security (AWS/Azure)",
-        "Malware Analysis & Reverse Engineering"
-    ],
-    
-    workExperience: {
-        "INVIGO INFOTECH": "SOC / VAPT Intern",
-        "InLighnX Global": "Offensive Security Intern",
-        "Cisco": "Virtual Cybersecurity Intern"
-    },
-    
-    achievements: {
-        vulnerabilitiesFound: 40,
-        attackVectorsValidated: 25,
-        threatIndicatorsProcessed: 1000,
-        trainingHours: 100,
-        clientsServed: 15
-    },
-    
-    funFact: "I automate security assessments to save 60% manual effort! 🤖"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
