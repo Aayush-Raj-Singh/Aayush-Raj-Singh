@@ -88,6 +88,7 @@
 </p>
 
 <br/>
+
 ### 🌐 Networking & Cloud Security
 
 <p align="left">
@@ -105,7 +106,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
 
 ## 💼 PROFESSIONAL JOURNEY
 
