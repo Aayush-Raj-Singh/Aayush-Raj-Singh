@@ -47,7 +47,7 @@
 
 ### 🔒 Cybersecurity & Penetration Testing
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -59,14 +59,12 @@
   <img src="https://img.shields.io/badge/Hydra-191970?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLmap-FF4500?style=for-the-badge" />
 </p>
-
 <br/>
-
 <div align="center">
 
 ### 💻 Programming & Scripting
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -79,7 +77,7 @@
 
 ### 🧠 AI/ML for Security
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -90,10 +88,9 @@
 </p>
 
 <br/>
-
 ### 🌐 Networking & Cloud Security
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -108,7 +105,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ## 💼 PROFESSIONAL JOURNEY
 
