@@ -60,8 +60,6 @@
   <img src="https://img.shields.io/badge/SQLmap-FF4500?style=for-the-badge" />
 </p>
 
-<br/>
-
 ### 💻 Programming & Scripting
 
 <p align="center">
@@ -87,7 +85,6 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-<br/>
 
 ### 🌐 Networking & Cloud Security
 
@@ -99,8 +96,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
