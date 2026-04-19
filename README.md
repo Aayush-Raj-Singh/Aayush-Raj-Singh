@@ -32,7 +32,7 @@
 ## 🛠️ TECHNOLOGY ARSENAL
 
 <br/>
-
+<div align="center">
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
