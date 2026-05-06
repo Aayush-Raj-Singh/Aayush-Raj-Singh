@@ -24,7 +24,7 @@
 
 ## 🎯 About Me
 
-B.Tech Cybersecurity graduate from Government Engineering College West Champaran with **8.04/10 GPA**. Specializing in penetration testing, threat intelligence, and SOC operations. Proven track record across enterprise security with hands-on experience in vulnerability assessment, incident response, and security automation.
+Cybersecurity graduate passionate about ethical hacking, threat intelligence, vulnerability assessment, and secure application development. Skilled in building real-world cybersecurity and full-stack projects with a strong focus on problem-solving, continuous learning, and emerging security technologies. Specializing in penetration testing, threat intelligence, and SOC operations. Proven track record across enterprise security with hands-on experience in vulnerability assessment, incident response, and security automation.
 
 ---
 
